@@ -1,0 +1,16 @@
+# Core dependencies
+python-dotenv
+flask
+flask-cors
+
+# Phidata and its tools
+phidata
+
+# Additional tools
+google-generativeai
+yfinance
+firecrawl-py
+duckduckgo-search
+googlesearch-python
+pycountry
+gunicorn
